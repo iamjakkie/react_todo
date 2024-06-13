@@ -6,7 +6,6 @@ export default function TodoCard(props) {
     <li className='todoItem'>
         {children}
         <div className='actionsContainer'>
-
         </div>
     </li>
   )
